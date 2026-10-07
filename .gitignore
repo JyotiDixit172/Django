@@ -1,0 +1,4 @@
+# Virtual environments
+first-django-project/.venv/
+
+# secret, API keys
